@@ -1,3 +1,3 @@
 # Welcome
 
-This is the code for generating austinrungroups.com
+This is the code for generating losangelesgrappling.com
